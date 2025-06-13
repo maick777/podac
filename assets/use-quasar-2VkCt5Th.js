@@ -1,0 +1,1 @@
+import{b$ as o,al as t,c0 as i}from"./index-DhVY4AOr.js";function a(){if(window.getSelection!==void 0){const e=window.getSelection();e.empty!==void 0?e.empty():e.removeAllRanges!==void 0&&(e.removeAllRanges(),o.is.mobile!==!0&&e.addRange(document.createRange()))}else document.selection!==void 0&&document.selection.empty()}function c(){return t(i)}export{a as c,c as u};
